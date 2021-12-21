@@ -6,13 +6,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Daniels Medkit Download!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <p className="description">
-          https://gateway.pinata.cloud/ipfs/QmPHmWRpxveipMVAZCvHnPsv9KhnsqKqWbemXFSsGA8ahN
+          <a href="https://gateway.pinata.cloud/ipfs/QmPHmWRpxveipMVAZCvHnPsv9KhnsqKqWbemXFSsGA8ahN">Merry Christmas!</a>
         </p>
       </main>
 
