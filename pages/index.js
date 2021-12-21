@@ -11,7 +11,6 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
         <p className="description">
           https://gateway.pinata.cloud/ipfs/QmPHmWRpxveipMVAZCvHnPsv9KhnsqKqWbemXFSsGA8ahN
         </p>
