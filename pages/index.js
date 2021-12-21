@@ -15,8 +15,6 @@ export default function Home() {
           <a href="https://gateway.pinata.cloud/ipfs/QmPHmWRpxveipMVAZCvHnPsv9KhnsqKqWbemXFSsGA8ahN">Merry Christmas!</a>
         </p>
       </main>
-
-      <Footer />
     </div>
   )
 }
